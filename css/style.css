@@ -1,0 +1,235 @@
+/* header */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+}
+.logo{
+
+        font-family: 'Raleway', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 02em;
+        color: #2E2F42;
+        text-decoration: none;
+}
+.logo:hover, .logo:focus{
+color: #4D5AE5
+}
+.menu-list{
+    list-style: none;
+}
+.link{
+ 
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 02em;
+        color: #2E2F42;
+     
+}
+.link:hover, .link:focus{
+    color: #404BBF;
+}
+.contact-mail{
+
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 02em;
+        color: #434455;
+}
+.contact-mail:hover, .contact-mail:focus{
+    color: #404BBF;
+}
+.contact-tel{
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 02em;
+letter-spacing: 0.02em;
+color: #434455;}
+.contact-tel:hover,
+.contact-tel:focus {
+    color: #404BBF;
+}
+.contact-list{
+list-style: none;
+}
+/* hero */
+.hero{
+        background: #2E2F42;
+}
+.hero-title{
+ 
+        font-style: normal;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 60px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+}
+.hero-button{
+
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.04em;
+        color: #FFFFFF;
+        background-color: #4D5AE5;
+        cursor: pointer;
+}
+.hero-button:hover, .hero-button:focus{
+    background-color: #404BBF;
+    color: #FFFFFF ;
+}
+/* features */
+.features-list{
+list-style: none;
+}
+.features-item .title{
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.features-item .text{
+ 
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/* work */
+.work-title{
+
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+}
+.work-list{
+    list-style: none;
+}
+/* team */
+.team-title{
+
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 40px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2E2F42;
+}
+
+.name{
+
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.team-item .text{
+
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.team-list{
+    list-style: none;
+}
+/* footer */
+.logo-foot{
+    font-family: 'Raleway', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #F4F4FD;
+}
+.footer-text{
+
+        font-size: 16px;
+        line-height: 02em;
+        color: #E7E9FC;
+}
+
+.foot{
+    background: #2E2F42;
+}
+/* ============================= Portfolio ============================= */
+/* navigation */
+
+.nav-item{
+    list-style: none;
+}
+.button-all{
+font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background: #404BBF;
+    cursor: pointer;
+}
+.nav-button{
+    font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        color: #4D5AE5;
+        background: #F4F4FD;
+        cursor: pointer;
+}
+/* project-card */
+.project-card{
+    list-style: none;
+}
+.card-title{
+    font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.card-text{
+
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+/* ============================= /Portfolio ============================= */
