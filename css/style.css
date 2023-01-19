@@ -1,3 +1,6 @@
+:root{
+    --accent-color: #404BBF;
+}
 /* header */
 body {
     font-family: 'Roboto', sans-serif;
@@ -14,7 +17,7 @@ body {
         text-decoration: none;
 }
 .logo:hover, .logo:focus{
-color: #4D5AE5
+color: var(--accent-color)
 }
 .menu-list{
     list-style: none;
@@ -29,7 +32,7 @@ color: #4D5AE5
      
 }
 .link:hover, .link:focus{
-    color: #404BBF;
+    color: var(--accent-color)
 }
 .contact-mail{
 
@@ -40,7 +43,7 @@ color: #4D5AE5
         color: #434455;
 }
 .contact-mail:hover, .contact-mail:focus{
-    color: #404BBF;
+    color: var(--accent-color)
 }
 .contact-tel{
 
@@ -52,7 +55,7 @@ letter-spacing: 0.02em;
 color: #434455;}
 .contact-tel:hover,
 .contact-tel:focus {
-    color: #404BBF;
+    color: var(--accent-color)
 }
 .contact-list{
 list-style: none;
@@ -85,8 +88,8 @@ list-style: none;
         cursor: pointer;
 }
 .hero-button:hover, .hero-button:focus{
-    background-color: #404BBF;
-    color: #FFFFFF ;
+    background-color: var(--accent-color);
+    color: #FFFFFF; 
 }
 /* features */
 .features-list{
