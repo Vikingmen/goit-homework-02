@@ -199,10 +199,12 @@ color: #434455;}
 .logo-foot:focus {
     color: var(--accent-color)}
 .footer-text{
-
-        font-size: 16px;
-        line-height: 02em;
-        color: #E7E9FC;
+font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1,5;
+    letter-spacing: 0.02em;
+    color: #E7E9FC;
 }
 
 .foot{
