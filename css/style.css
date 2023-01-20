@@ -30,7 +30,7 @@ img{
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.03em;
         color: #2E2F42;  
 }
@@ -40,7 +40,7 @@ img{
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.03em;
         color: #4D5AE5;
 }
@@ -50,7 +50,7 @@ img{
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2E2F42;
      
@@ -63,7 +63,7 @@ img{
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
@@ -75,7 +75,7 @@ img{
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;}
 
@@ -93,7 +93,7 @@ color: #434455;}
         font-style: normal;
         font-weight: 700;
         font-size: 56px;
-        line-height: 1,1;
+        line-height: 1.1;
         text-align: center;
         letter-spacing: 0.02em;
         color: #FFFFFF;
@@ -103,7 +103,7 @@ color: #434455;}
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         display: flex;
         align-items: center;
         letter-spacing: 0.04em;
@@ -122,14 +122,14 @@ color: #434455;}
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
 .features-item .text{
  
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
@@ -140,7 +140,7 @@ color: #434455;}
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 1,1;
+        line-height: 1.1;
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
@@ -155,7 +155,7 @@ color: #434455;}
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 1,1;
+        line-height: 1.1;
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
@@ -167,7 +167,7 @@ color: #434455;}
         font-style: normal;
         font-weight: 500;
         font-size: 20px;
-        line-height: 1,2;
+        line-height: 1.2;
         text-align: center;
         letter-spacing: 0.02em;
         color: #2E2F42;
@@ -175,7 +175,7 @@ color: #434455;}
 .team-item .text{
 
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         text-align: center;
         letter-spacing: 0.02em;
         color: #434455;
@@ -187,7 +187,7 @@ color: #434455;}
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
-        line-height: 1,15;
+        line-height: 1.15;
         display: flex;
         align-items: center;
         letter-spacing: 0.03em;
@@ -202,7 +202,7 @@ color: #434455;}
 font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #E7E9FC;
 }
@@ -223,7 +223,7 @@ font-style: normal;
     font-style: normal;
         font-weight: 500;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         display: flex;
         align-items: center;
         text-align: center;
@@ -241,14 +241,14 @@ font-style: normal;
     font-style: normal;
         font-weight: 500;
         font-size: 20px;
-        line-height: 1,2;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2E2F42;
 }
 .card-text{
 
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
